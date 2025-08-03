@@ -29,3 +29,9 @@ Right-click and select Run
 
 Using Postman or Swagger for endpoint testing
 
+URL to test endpoints
+
+http://localhost:8080/api/books
+
+URL to see the database
+http://localhost:8080/h2-console/login.do?jsessionid=a01a738eca0d1333460628247a736f39
