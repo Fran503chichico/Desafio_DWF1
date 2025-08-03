@@ -35,3 +35,6 @@ http://localhost:8080/api/books
 
 URL to see the database
 http://localhost:8080/h2-console/login.do?jsessionid=a01a738eca0d1333460628247a736f39
+
+POSTMAN TEST:
+https://web.postman.co/workspace/My-Workspace~a278a63c-061e-4a61-8271-b6d6c01d6a6a/collection/46368481-01ef6662-c342-4a3e-a912-b67c22b042f2?action=share&source=copy-link&creator=46368481
